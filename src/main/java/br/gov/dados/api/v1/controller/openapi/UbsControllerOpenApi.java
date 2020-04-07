@@ -16,6 +16,6 @@ public interface UbsControllerOpenApi {
 	public ResponseEntity<List<ResponseDTO>> findUbs(
 			@ApiParam("Valores de latitude e longitude separados por virgula") List<String> query,
 			@ApiParam(value = "Valor da pagina que sera exibido", example = "1") int page,
-			@ApiParam(value = "Quantidade de itens exibidos por pagina", example = "2") int per_page);
+			@ApiParam(value = "Quantidade de itens exibidos por pagina", example = "2")  int per_page);
 
 }
