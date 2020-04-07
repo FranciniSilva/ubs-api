@@ -1,9 +1,9 @@
 # ubs-api
-API que lista as ubs mais próximas por latitude e longitude
+<h1>API que lista as ubs mais próximas por latitude e longitude<h1>
 
 
 Este projeto utiliza as seguintes ferramentas:
-Springboot, spring data, spring dev Tolls, mySQL, lombok, junit, springfox(open api swagger).
+<em>Springboot, spring data, spring dev Tolls, mySQL, lombok, junit, springfox(open api swagger).</em>
 
 Para executar este projeto é recomendável utilizar o STS.
 No arquivo application.properties será encontrado as informações de banco de dados.
@@ -16,4 +16,6 @@ Esta url do swagger poderá ser consultada logo após a inicialização da aplic
 
 Os testes de api estão disponíveis no caminho src/test/java no pacote br.gor.dados.
 Basta executar a classe FindUbsIT para executar os testes de API.
+
+
 
