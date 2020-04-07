@@ -1,5 +1,5 @@
 # ubs-api
-<h1>API que lista as ubs mais próximas por latitude e longitude<h1>
+<h1>API que lista as ubs mais próximas por latitude e longitude</h1>
 
 
 Este projeto utiliza as seguintes ferramentas:
