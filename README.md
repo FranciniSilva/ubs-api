@@ -3,7 +3,7 @@
 
 
 Este projeto utiliza as seguintes ferramentas:
-<em>Springboot, spring data, spring dev Tolls, mySQL, lombok, junit, springfox(open api swagger).</em>
+<em>Springboot, spring data, spring dev Tolls, mySQL, lombok, junit, springfox(open api swagger), maven.</em>
 
 Para executar este projeto é recomendável utilizar o STS.
 
