@@ -37,9 +37,6 @@ Para executar o end point find_ubs basta clicar no botao Try it out conforme mos
 
 ![Screenshot_7](https://user-images.githubusercontent.com/20953270/78671280-7674c800-78b5-11ea-97b2-27e33b031add.png)
 
-Os testes de api estão disponíveis no caminho src/test/java no pacote br.gor.dados.
-Basta executar a classe FindUbsIT para executar os testes de API.
-
 Os parametros obrigatorios estarao preenchidos automaticamente como mostra a imagem abaixo:
 
 ![Screenshot_13](https://user-images.githubusercontent.com/20953270/78672811-87bed400-78b7-11ea-91ad-b8f277b4f083.png)
