@@ -25,13 +25,10 @@ Para chamar a API utilize o POSTman ou o curl, conforme sua preferencia, utiliza
 ![Screenshot_2](https://user-images.githubusercontent.com/20953270/78671241-6957d900-78b5-11ea-9a69-9b3f865532d2.png)
 
 A resposta obtida sera essa:
-![Screenshot_12](https://user-images.githubusercontent.com/20953270/78671269-74ab0480-78b5-11ea-874e-2f1f3b504035.png)
 
-
-
-A api está documentada na url localhost:8080/swagger-ui.html
 ![Screenshot_4](https://user-images.githubusercontent.com/20953270/78671273-75dc3180-78b5-11ea-9586-05e054f24563.png)
 
+A api está documentada na url localhost:8080/swagger-ui.html
 Esta url do swagger poderá ser consultada logo após a inicialização da aplicação.
 No swagger e possivel encontrar todas as informacoes sobre a api e o endpoint conforme imagem abaixo:
 ![Screenshot_6](https://user-images.githubusercontent.com/20953270/78671279-7674c800-78b5-11ea-846d-4738e1b35521.png)
@@ -51,11 +48,11 @@ Basta clicar em execute para obter a resposta do endpoint:
 ![Screenshot_9](https://user-images.githubusercontent.com/20953270/78671283-770d5e80-78b5-11ea-93c5-df75f99188a3.png)
 
 Na documentacao tambem e possivel ver as informacoes dos modelos:
-![Screenshot_10](https://user-images.githubusercontent.com/20953270/78671286-770d5e80-78b5-11ea-8953-6380241ccd0a.png)
+![Screenshot_11](https://user-images.githubusercontent.com/20953270/78671287-77a5f500-78b5-11ea-8e65-0c1734cdaf3e.png)
 
 Os testes de api estao disponiveis no caminho src/test/java no pacote br.gov.dados.
 Para executar os testes basta abrir a classe e executar com o junit:
-![Screenshot_11](https://user-images.githubusercontent.com/20953270/78671287-77a5f500-78b5-11ea-8e65-0c1734cdaf3e.png)
+![Screenshot_12](https://user-images.githubusercontent.com/20953270/78671269-74ab0480-78b5-11ea-874e-2f1f3b504035.png)
 
 
 
